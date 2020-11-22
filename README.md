@@ -8,7 +8,11 @@ As a remote worker you are probably in daily conference calls. Often it is not o
 On a Mac you can execute AppleScript through keystrokes which mute/unmutes your microphone system wide. So you do not have to distinguish between the different chat/conference applications. It is even better to build a separate USB device acting as keyboard which is used only for this purpose.
 A hardware **emergency stop** button is perfect to solve the problem - just smack it down and you are muted! You can even add an indicator LED to display the current state.
 
+### In Action
 <img src="assets/mute-emergency-stop.gif" width=800>
+
+### Next to 13 inch MacBook 
+<img src="assets/emergency-macbok-13.jpg" width=600>
 
 ## Hardware: Digispark
 
